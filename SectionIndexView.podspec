@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.author       = { "ChenJian" => "57150718@qq.com" }
   s.homepage     = "https://github.com/CJYS/SectionIndexView"
   s.framework    = "UIKit"
-  s.source       = { :git => "https://github.com/CJYS/SectionIndexView.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/ahmetsina/SectionIndexView.git", :tag => s.version }
   s.source_files = "SectionIndexViewDemo/SectionIndexView/**/*.{h,m,swift}"
   s.license      = "MIT"  
   s.platform     = :ios
